@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.a7fb63bcee633b6a1bf0fdb79d73d720.js"
+  "/precache-manifest.65496c274a062c2337f563cb6b847f86.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "kolysko-app"});
